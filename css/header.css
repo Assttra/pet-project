@@ -1,0 +1,28 @@
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1386px;
+    height: 112px;
+    padding: 20px 100px 20px 100px;
+}
+
+.navigate {
+    display: flex;
+    justify-content: space-around;
+    color: var(--gl-color);
+    font-size: 32px;
+}
+
+p {
+    padding: 0 20px 0 20px;
+    font-family: "Roboto", sans-serif;
+}
+.h-nav{
+    height: 56px;
+    top: 197px;
+    left: 135x;
+    width: 445px;
+color: white;
+weight: 700px;
+Size: 68px;
