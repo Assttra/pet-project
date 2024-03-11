@@ -8,12 +8,32 @@
 
 body {
     background-color: var(--main-bg);
+    overflow: hidden;
 }
 
 :root {
     /*Color*/
     --main-bg: #0F172A;
     --gl-color: #F8FAFC;
+    --text-color: #CBD5E1;
 
     /*Font*/
+    --main-font: "Roboto", sans-serif;
+}
+
+section {
+    padding: 30px 0;
+}
+
+.title-section {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: var(--main-font);
+    color: var(--gl-color);
+
+    span {
+        background: linear-gradient(#22D3EE, #0EA5E9);
+        background-clip: text;
+        color: transparent;
+    }
 }
