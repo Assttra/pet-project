@@ -18,11 +18,19 @@ p {
     padding: 0 20px 0 20px;
     font-family: "Roboto", sans-serif;
 }
-.h-nav{
+
+.title-container {
     height: 56px;
     top: 197px;
-    left: 135x;
+    left: 135px;
     width: 445px;
-color: white;
-weight: 700px;
-Size: 68px;
+    color: white;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.title {
+    color: white;
+    font-weight: 700;
+    font-size: 48px;
+}
