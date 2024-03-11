@@ -19,18 +19,4 @@ p {
     font-family: "Roboto", sans-serif;
 }
 
-.title-container {
-    height: 56px;
-    top: 197px;
-    left: 135px;
-    width: 445px;
-    color: white;
-    font-weight: 700;
-    font-size: 48px;
-}
 
-.title {
-    color: white;
-    font-weight: 700;
-    font-size: 48px;
-}
