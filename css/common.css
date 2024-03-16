@@ -8,7 +8,6 @@
 
 body {
     background-color: var(--main-bg);
-    overflow: hidden;
 }
 
 :root {
