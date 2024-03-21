@@ -126,24 +126,28 @@ width: 840px;
     align-items: center;
     margin-top: 81px;
     margin-left: 55px;
+    padding: 0 0 0 20px;
+
 
     p {
-        width: 75px;
+        width: 120px;
         height: 16px;
         font-weight: 700;
         font-family: var(--main-font);
         font-size: 14px;
         line-height: 16px;
-        margin-right: 35px;
+
+
+
     }
 
 }
 .liener-purple {
-
     white-space: nowrap;
     background: linear-gradient(#7c3aed, #60a5fa);
     background-clip: text;
     color: transparent;
+    margin-left: -10px;
 
 }
 
@@ -161,9 +165,23 @@ width: 840px;
 
 .pc {
     white-space: nowrap;
-    margin-left: -245px;
+    margin-left: -265px;
 }
 
 
+@media screen and (max-width: 768px) {
 
+    .project {
 
+        flex-direction: column;
+    }
+    .lamp-img {
+        margin-left: 200px;
+    }
+    .pr {
+        margin-left: 200px;
+    }
+    .project-p {
+        margin-right: 200px;
+    }
+}
