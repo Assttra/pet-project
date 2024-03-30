@@ -1,0 +1,40 @@
+.posts-examples {
+    margin: 0 auto;
+    width: 360px;
+    height: 57px;
+    font-family: var(--main-font);
+    line-height: 56px;
+    font-size: 24px;
+    font-weight: 700;
+    color: #F8FAFC;
+    white-space: nowrap;
+    padding-top: 40px;
+}
+
+.text-posts {
+    margin: 0 auto;
+    width: 711px;
+    height: 23px;
+    font-family: var(--main-font);
+    font-weight: 400;
+    line-height: 23px;
+    font-size: 20px;
+    color: #CBD5E1;
+    padding-top: 70px;
+}
+
+.header-second {
+    margin-left: 80px;
+}
+
+.posts-example {
+    margin-top: 20px;
+}
+
+.newsletters-second {
+    margin-top: -50px;
+}
+
+.footer-second {
+    margin-top: -50px;
+}

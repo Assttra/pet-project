@@ -82,8 +82,6 @@ width: 840px;
     margin-left: -225px;
 }
 
-
-
 .design-red {
     width: 91px;
     height: 32px;
@@ -114,8 +112,6 @@ width: 840px;
 
 }
 
-
-
 .design-purple {
     width: 130px;
     height: 32px;
@@ -128,7 +124,6 @@ width: 840px;
     margin-left: 55px;
     padding: 0 0 0 20px;
 
-
     p {
         width: 120px;
         height: 16px;
@@ -136,9 +131,6 @@ width: 840px;
         font-family: var(--main-font);
         font-size: 14px;
         line-height: 16px;
-
-
-
     }
 
 }
@@ -148,7 +140,6 @@ width: 840px;
     background-clip: text;
     color: transparent;
     margin-left: -10px;
-
 }
 
 .second {
@@ -168,19 +159,20 @@ width: 840px;
     margin-left: -265px;
 }
 
-
 @media screen and (max-width: 768px) {
 
     .project {
-
         flex-direction: column;
     }
+
     .lamp-img {
         margin-left: 200px;
     }
+
     .pr {
         margin-left: 200px;
     }
+
     .project-p {
         margin-right: 200px;
     }

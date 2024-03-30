@@ -1,0 +1,88 @@
+.third-page {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.h-lorem {
+    width: 530px;
+    height: 57px;
+    font-family: var(--main-font);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #F8FAFC;
+    white-space: nowrap;
+    margin: 0 auto;
+    padding-top: 130px;
+}
+
+.header-third {
+margin-left: 50px;
+}
+
+.by-ixartz {
+    width: 410px;
+    height: 28px;
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #9CA3AF;
+    padding: 110px 0 0 170px;
+    white-space: nowrap;
+}
+
+.lorem-img {
+    width: 1200px;
+    height: 425px;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+.p-lorem {
+    width: 1109px;
+    height: 1532px;
+    font-family: var(--main-font);
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 45px;
+    color: #F8FAFC;
+    margin: 0 auto;
+    padding-top: 550px;
+    text-align: justify;
+}
+
+.p-weight {
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 45px;
+
+}
+
+.non {
+ margin-left: 50px;
+}
+
+.further {
+    width: 1109px;
+    height: 219px;
+    font-family: var(--main-font);
+    line-height: 37px;
+    font-weight: 400;
+    font-size: 30px;
+    color: #F8FAFC;
+    padding: 690px 0 0 210px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.newsletters-third {
+    padding: 250px 0 0 80px;
+}
+
+.footer-third {
+    padding-top: 30px;
+}

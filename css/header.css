@@ -10,13 +10,19 @@
 .navigate {
     display: flex;
     justify-content: space-around;
-    color: var(--gl-color);
     font-size: 32px;
+    cursor: pointer;
 
-    p {
+
+    a {
         padding: 0 20px 0 20px;
         font-family: "Roboto", sans-serif;
+        text-decoration: none;
+        color: var(--gl-color);
     }
 }
+
+
+
 
 
